@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <g id="search_icon" data-name="search icon" transform="translate(-437 -3371)">
+    <rect id="bound" width="24" height="24" transform="translate(437 3371)" fill="#fff" opacity="0"/>
+    <g id="icon" transform="translate(-2.085 -1.669)">
+      <path id="Path-2" d="M14.339,16.975a1.157,1.157,0,0,1,1.636-1.636L20.6,19.966A1.157,1.157,0,0,1,18.966,21.6Z" transform="translate(439.398 3372.562)" fill="rgba(0,173,187,0.3)"/>
+      <path id="Path" d="M12.1,17.883A5.785,5.785,0,1,0,6.314,12.1,5.785,5.785,0,0,0,12.1,17.883Zm0,2.314a8.1,8.1,0,1,1,8.1-8.1A8.1,8.1,0,0,1,12.1,20.2Z" transform="translate(437.829 3370.835)" fill="#00adbb"/>
+    </g>
+  </g>
+</svg>
